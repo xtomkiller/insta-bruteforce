@@ -1,0 +1,8 @@
+{
+  "target": "felix_1437_",
+  "wordlist": "pass.txt",
+  "csrf": "xvAQoMiz2eaU4RrcmRp2hqinDVMfgkpe",
+  "use_proxies": true,
+  "save_tried_passwords": true,
+  "proxies_file": "/home/hacker/Desktop/my/proxies_test/proxies_verify.txt"
+}
